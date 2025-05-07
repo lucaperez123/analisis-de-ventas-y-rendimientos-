@@ -35,21 +35,24 @@ Los resultados fueron presentados en un informe en formato **PDF** y **Excel** q
    ```bash
    pip install pandas matplotlib seaborn fpdf xlsxwriter
 
-2. Ejecutar el script de análisis:
-Ejecuta el archivo analisis_tiendas.py para realizar todos los cálculos y generar los informes.
+## Ejecutar el script de análisis
 
-3. Obtener los resultados:
-Los informes serán generados en formato PDF y Excel, con las siguientes características:
+Ejecuta el archivo `analisis_tiendas.py` para realizar todos los cálculos y generar los informes.
 
-PDF con la portada profesional y los análisis.
+## Obtener los resultados
 
-Excel con las tablas detalladas de los resultados.
+Los informes serán generados en formato **PDF** y **Excel**, con las siguientes características:
 
-Conclusiones
-Después de analizar los datos de ventas, facturación, categorías populares y costos de envío, se concluye que la tienda de Cali presenta la facturación más alta, pero también el costo de envío más elevado. Las valoraciones promedio favorecen a Medellín, lo que podría indicar una mayor satisfacción del cliente en esa tienda.
+- **PDF** con la portada profesional y los análisis.
+- **Excel** con las tablas detalladas de los resultados.
 
-Recomendación: Vender la tienda de Cali podría ser una opción estratégica para reducir costos logísticos y reinvertir en un nuevo negocio más rentable.
+## Conclusiones
 
-Información del Desarrollador
-Nombre: Luca Pérez
-Descripción: Soy estudiante de la Tecnicatura Universitaria en Programación en la Universidad Tecnológica Nacional (UTN) San Rafael. Me especializo en el desarrollo de aplicaciones y análisis de datos utilizando tecnologías como Python, Java y SQL. Mi objetivo es combinar mis habilidades de programación con mi pasión por el análisis de datos para tomar decisiones informadas basadas en hechos y resultados.
+Después de analizar los datos de ventas, facturación, categorías populares y costos de envío, se concluye que la tienda de **Cali** presenta la **facturación más alta**, pero también el **costo de envío más elevado**. Las **valoraciones promedio** favorecen a **Medellín**, lo que podría indicar una mayor satisfacción del cliente en esa tienda.
+
+**Recomendación**: Vender la tienda de **Cali** podría ser una opción estratégica para reducir costos logísticos y reinvertir en un nuevo negocio más rentable.
+
+## Información del Desarrollador
+
+**Nombre**: Luca Pérez  
+**Descripción**: Soy estudiante de la **Tecnicatura Universitaria en Programación** en la **Universidad Tecnológica Nacional (UTN) San Rafael**. Me especializo en el desarrollo de aplicaciones y análisis de datos utilizando tecnologías como Python, Java y SQL. Mi objetivo es combinar mis habilidades de programación con mi pasión por el análisis de datos para tomar decisiones informadas basadas en hechos y resultados.
